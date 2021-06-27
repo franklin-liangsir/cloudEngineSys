@@ -9,5 +9,5 @@
             "email": "516874329@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
 }
