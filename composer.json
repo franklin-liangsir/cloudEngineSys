@@ -1,0 +1,13 @@
+{
+    "name": "franklin-liangsir/cloudEngineSys",
+    "description": "基于thinkphp的组件工具系统",
+    "type": "project",
+    "license": "Creative",
+    "authors": [
+        {
+            "name": "franklin-liangsir",
+            "email": "516874329@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+}
